@@ -1,4 +1,6 @@
-# Projeto de estudos
+# 📚 Projeto de estudos
+### Objetivo: Explorar a variedade de linguagens de programação, paradigmas e frameworks.
+
 ## 001: Calculadora de médias
 
 Precisa que tenha uma table com nome da atividade, nota e se ele está ou não aprovado
