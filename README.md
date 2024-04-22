@@ -10,3 +10,6 @@ Não pode ser adicionada a mesma atividade 2X
 
 ## Agenda de contatos
 
+Construa uma tabela com duas colunas: Nome e Telefone;
+Construa um formulário no qual o usuário irá inserir o nome e telefone do contato e ao cliar em cadastrar uma linha será adicionada na tabela de contatos.
+
